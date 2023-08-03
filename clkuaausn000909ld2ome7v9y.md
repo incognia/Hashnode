@@ -4,7 +4,7 @@ datePublished: Wed Aug 02 2023 22:13:00 GMT+0000 (Coordinated Universal Time)
 cuid: clkuaausn000909ld2ome7v9y
 slug: cuanto-pesa-una-mentada-de-madre
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691014273464/c6ce689a-52d7-4722-8a14-2565ad4d7cf2.jpeg
-tags: rant, freespech
+tags: rant, freespeech
 
 ---
 
